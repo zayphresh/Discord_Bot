@@ -1,4 +1,4 @@
-/* a simple discord bot developed using nodejs. a bot with basic commands, there will be more features added in the future
+/* A simple discord bot developed using nodejs. a bot with basic commands, there will be more features added in the future
 the three basic commands are as follows. */
 
 // - the ping command sends pong in response.
@@ -7,7 +7,7 @@ the three basic commands are as follows. */
 
 
 
-// more documentation to be to be included into the source code for index.js.
+// More documentation to be to be included into the source code for index.js.
 
 
-//future feature considerations include a search command to facilitate web searches on the fly and, mp3 music player capabilities.
+//Future feature considerations include a search command to facilitate web searches on the fly and, mp3 music player capabilities.
